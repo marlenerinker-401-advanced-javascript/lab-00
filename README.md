@@ -2,9 +2,9 @@
 
 ### Author: Marlene Rinker
 
-- [submission PR](https://github.com/tutuorial-401js/class-00)
-- [tests report](https://github.com/tutuorial-401js/class-00/actions)
-- [front-end](https://tutorial-401js.herokuapp.com/)
+- [submission PR](https://github.com/marlenerinker-401-advanced-javascript/lab-00/pull/1)
+- [tests report](https://github.com/marlenerinker-401-advanced-javascript/lab-00/actions/runs/129152143)
+- [front-end](https://js401-lab00-mr.herokuapp.com/)
 
 ### Setup
 
@@ -24,8 +24,6 @@
 - Lint Tests: `npm run lint`
 - Assertions Made
   - Assert that isAlive() properly returns a boolean
-- Assertions Remaining
-  - ... Things I want to tests, but didn't yet.
 
 #### UML
 
